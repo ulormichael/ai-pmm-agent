@@ -1,0 +1,22 @@
+[
+  {
+    "id": "m1",
+    "from": "Sample Scout <scout@example.com>",
+    "to": "becky@yourdomain.com",
+    "subject": "Question about Scoutflair pricing",
+    "date": "2026-10-29T09:12:00Z",
+    "unread": true,
+    "messageId": "<sample-1@example.com>",
+    "body": "Hi, I'm a scout at a club and heard about Scoutflair. Do you have pricing for scouts, and can I see a demo?"
+  },
+  {
+    "id": "m2",
+    "from": "Sample Partner <partner@example.org>",
+    "to": "becky@yourdomain.com",
+    "subject": "Launch week collaboration",
+    "date": "2026-10-30T14:40:00Z",
+    "unread": true,
+    "messageId": "<sample-2@example.org>",
+    "body": "We'd love to co-host a launch webinar. What dates work for you?"
+  }
+]
